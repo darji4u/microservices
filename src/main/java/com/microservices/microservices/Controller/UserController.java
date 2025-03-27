@@ -11,7 +11,6 @@ public class UserController {
     public String getUserDetails(){
 
         return "Hello from microservice";
-
     }
 
 }
