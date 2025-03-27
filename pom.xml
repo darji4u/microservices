@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.microservices</groupId>
 	<artifactId>microservices</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservices</name>
 	<description>Microservices Project</description>
