@@ -9,7 +9,9 @@ public class UserController {
 
     @RequestMapping(method = RequestMethod.GET,value = "/userData")
     public String getUserDetails(){
+
         return "Hello from microservice";
+
     }
 
 }
